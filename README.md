@@ -3,7 +3,9 @@
 I build efficient, scalable applications with clean, maintainable code. From pixel-perfect UIs to robust back-end APIs, I ship reliable software that performs under real-world load.
 
 🚀 End-to-end delivery: architecture → implementation → testing → deployment
+
 🎯 Focus areas: performance, maintainability, accessibility, and DX
+
 🤝 Collaboration: clear communication, thoughtful PRs, and pragmatic trade-offs
 
 I’m always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or explore my repositories below!
