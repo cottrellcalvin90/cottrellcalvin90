@@ -51,7 +51,7 @@ MySQL, MongoDB, GraphQL, PostgreSQL
 - Integrations: third-party APIs, webhooks, payment processing, analytics
 - Performance: audits, Core Web Vitals, database/query optimization
 
-  🏗️ Selected Capabilities
+🏗️ Selected Capabilities
 
 - Build SPA/SSR apps with React/Next.js and Vue/Nuxt.js
 - Design scalable API layers in Node.js, Python, PHP, or Go
@@ -59,7 +59,7 @@ MySQL, MongoDB, GraphQL, PostgreSQL
 - Implement robust state & data layers (Redux, Sequelize/Knex, ORM best practices)
 - Ship production-ready features with code reviews, testing, and CI best practices
 
-  🧾 Recent Highlights
+🧾 Recent Highlights
 
 - Implemented high-throughput Node/Nest services with caching + background jobs
 - Delivered Next.js + Tailwind front-ends scoring 95–100 on CWV/Lighthouse
