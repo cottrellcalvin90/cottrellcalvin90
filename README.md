@@ -1,4 +1,4 @@
-Full Stack Developer · Front & Back End Expert
+**Full Stack Developer · Front & Back End Expert**
 
 I build efficient, scalable applications with clean, maintainable code. From pixel-perfect UIs to robust back-end APIs, I ship reliable software that performs under real-world load.
 
